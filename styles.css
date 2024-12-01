@@ -1,0 +1,60 @@
+:root {
+    --white: #f5f5f5;
+    --ada-red: #ae485e;
+}
+.Ourteam{
+    text-align: center;
+    font-size: 30px;;
+}
+.Team40 {
+    text-align: center;
+    display: inline-block;
+}
+.Uniandmajor {
+    line-height: 22px;
+    font-size: 20px;
+    font-weight: 350;
+    padding-left: 80px;
+}
+.Membername {
+    padding-left: 200px;
+    line-height: 25px;
+    font-size: 20px;
+    font-weight: 350px;
+}
+.Faratimage {
+    height: 350px;
+    width: 350px;
+    margin-left: 250px;
+}
+.Ismailimage {
+    height: 350px;
+    width: 350px;
+    margin-left: 250px;
+
+}
+.Aysuimage {
+    height: 350px;
+    width: 350px;
+    margin-left: 250px;
+}
+.Ayazimage {
+    height: 350px;
+    width: 350px;
+    margin-left: 250px;
+} 
+.body {
+    background-color: var(--ada-blue);
+}
+.canvas {
+    border: 1px solid #ccc;
+    margin-top: 1rem;
+}
+
+.example-9mice {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            margin-top: 2rem;
+}
